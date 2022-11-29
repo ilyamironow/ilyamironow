@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilyamironow
-- 👀 I’m interested in Java backend development and I will update this when I will decide to do so.
+- 👀 I’m interested in Java backend development.
 - 🌱 I’m currently learning how to build a Java web server.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ilyamironow)
 
